@@ -23,11 +23,13 @@ decipher(message, alpha, key): Decrypts the message using the same key.
 To run the script, execute it in a Python environment. Ensure that Python 3.x is installed on your system.
 
 bash ```
-Copy code
-python substitution_cipher.py
-Requirements
+python substitution_cipher.py ```
+
+
+## Requirements
 Python 3.x
-Author
+
+## Author
 Written by [Mr D.] ```
 
 ## License
