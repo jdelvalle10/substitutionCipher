@@ -30,7 +30,7 @@ python substitution_cipher.py ```
 Python 3.x
 
 ## Author
-Written by [Mr D.] ```
+Written by [Mr D.] 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
